@@ -1,0 +1,50 @@
+BÀI TẬP VỀ NHÀ
+
+Bài 01: In bảng cửu chương
+
+Gợi ý: Sử dụng thẻ table trong html để thiết kế bảng cửu chương
+
+Bài 02: Vẽ bàn cờ vua
+
+Gợi ý: Sử dụng thẻ table trong html để thiết kế bàn cờ vua
+
+Bài 03: Vẽ tam giác sao với N dòng
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+(Ví dụ N = 5) 
+
+
+
+Bài 04: Vẽ tam giác sao đối xứng với N x 2 dòng
+
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+
+(Ví dụ N = 5)
+
+
+Bài 05: Tính tổng: S = 1 + 1*2 + 1*2*3 + 1*2*3*4 + ... + 1*2*3*4*...*n  
+
+
+Bài 06: In ra tất cả số nguyên tố nhỏ hơn N
+
+Bài 07: Vẽ tam giác số như sau (Với N dòng)
+
+1 
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
